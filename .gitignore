@@ -1,0 +1,4 @@
+./app/*
+./db_data/*
+./portainer-data/
+./nginx/sites/foodsmachine.conf
